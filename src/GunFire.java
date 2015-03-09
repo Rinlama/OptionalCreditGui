@@ -83,10 +83,7 @@ public class GunFire extends JFrame {
             //draw background
             g.setColor(new Color(178,223,224));
             g.fillRect(0,0,400, 400);
-            //draw image
-           
-            
-            
+            //draw image    
             //draw paddle
             g.setColor(Color.DARK_GRAY);
             g.fillRect(150, 250, 50, 100);
